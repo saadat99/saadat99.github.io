@@ -3,8 +3,8 @@
   "username": "saadat99",
   "name": "Saadat Esmaeili",
   "userimg": "https://avatars2.githubusercontent.com/u/25175193?v=4",
-  "sort": "pushed",
-  "order": "desc",
+  "sort": "created",
+  "order": "asc",
   "includeFork": false,
   "theme": "light.css",
   "types": [
